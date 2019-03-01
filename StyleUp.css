@@ -3,7 +3,7 @@
     padding: 5px;
     margin: 5px;
     font-weight: 800;
-    color:white;
+    color:black;
     background: teal;
 }
 
@@ -12,6 +12,7 @@
     font-family: "Times New Roman";
     font-style: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    color: white;
 }
 
 .headblock {
