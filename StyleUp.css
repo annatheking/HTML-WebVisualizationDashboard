@@ -52,3 +52,12 @@ header {
     border-top: 5px solid teal;
     font-size: 8pt;
  }
+
+.plot-title {
+    text-align: center;
+    margin-top: 3%;
+    color: teal;
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: "Times New Roman";
+}
